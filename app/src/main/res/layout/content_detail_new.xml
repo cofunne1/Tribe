@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="350dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <com.example.chucksupreme.zoku.adapters.SquareImageView
+                android:id="@+id/imagefull"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop" />
+            <ToggleButton
+                android:id="@+id/favorites_star_btn"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/fav_icon"
+                android:background="@drawable/fav_icon"
+                android:layout_gravity="top|right"
+                android:layout_margin="10dp"
+                android:textOn=""
+                android:textOff=""
+                android:text="" />
+            <TextView
+                android:id="@+id/content_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="25dp"
+                android:letterSpacing="0.1"
+                android:layout_gravity="bottom"
+                android:paddingLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:background="@color/black"
+                android:textColor="@color/White"/>
+        </FrameLayout>
+</LinearLayout>

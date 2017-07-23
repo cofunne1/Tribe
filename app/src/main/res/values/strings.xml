@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Tribe</string>
+
+    <string name="ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Donec sed ex pellentesque felis euismod blandit a sit amet massa.
+        Etiam est nibh, rutrum at accumsan fermentum, ultrices at lacus.
+        Suspendisse in ipsum tincidunt, volutpat diam nec, tincidunt nisl.
+        Quisque vitae imperdiet purus, sed mattis nisi. Nulla quis convallis sem, vel bibendum neque.
+        Integer sollicitudin tortor et lacus egestas, a tempor nunc suscipit.
+        Donec ut nulla sed lacus ullamcorper commodo a id libero.
+        Morbi elit lorem, tempor in justo in, tempor egestas neque.
+        Etiam hendrerit sit amet purus id ultricies.
+        Etiam at justo ac nulla varius euismod a quis nibh.
+        Donec sodales nisl non mauris porta sagittis.
+        Praesent quis mi rutrum, pharetra ex ut, mattis sem.
+        Aenean feugiat, quam eu lacinia mollis, nisi mi sagittis mi, eget condimentum erat sapien et leo.
+        Vivamus consectetur suscipit sem sollicitudin varius. Etiam in lacinia lacus.
+        Sed dapibus sem elit, ut condimentum mi ultrices varius.
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        Nunc at hendrerit felis. Suspendisse tincidunt in tellus eu suscipit.
+        Donec tincidunt felis finibus, ullamcorper augue non, tristique urna.
+        Mauris dignissim mauris tellus, vel scelerisque risus fermentum eleifend.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notorious">Notorious B.I.G</string>
+    <string name="cole">J. Cole</string>
+    <string name="currensy">Currensy</string>
+    <string name="eminem">Eminem</string>
+    <string name="gambino">Childish Gambino</string>
+    <string name="gucci">Gucci Mane</string>
+    <string name="jay">Jay Z</string>
+    <string name="wiz">Wiz Khalifa</string>
+    <string name="rocky">Asap Rocky</string>
+    <string name="kendrick">Kendrick Lamar</string>
+    <string name="mosdef">Mos Def</string>
+    <string name="nas">Nas</string>
+    <string name="savage">21 Savage</string>
+    <string name="snoop">Snoop Dogg</string>
+
+
+    <string name="notoriousInfo">Christopher George Latore Wallace (May 21, 1972 – March 9, 1997),
+        better known by his stage names The Notorious B.I.G., Biggie, or Biggie Smalls, was an American rapper.
+        He is consistently ranked as one of the greatest and most influential rappers of all time.
+        Wallace was raised in the Brooklyn borough of New York City. When he released his debut album Ready to Die in 1994,
+        he became a central figure in the East Coast hip hop scene and increased
+        New York\'s visibility in the genre at a time when West Coast hip hop was dominant in the mainstream.
+        The following year, Wallace led his childhood friends to chart success through his protégé group,
+        Junior M.A.F.I.A. While recording his second album, Wallace was heavily involved in the growing East Coast–West Coast hip hop feud.
+        On March 9, 1997, Wallace was killed by an unknown assailant in a drive-by shooting in Los Angeles. His double-disc album Life After Death,
+        released 16 days later, rose to No. 1 on the U.S. album charts and was certified Diamond in 2000 by the Recording Industry Association of America,
+        one of the few hip hop albums to receive this certification. Wallace was noted for his "loose, easy flow",
+        dark semi-autobiographical lyrics and storytelling abilities, sometimes changing his pitch on songs.
+        Three more albums have been released since his death. He has certified sales of 17 million units in the United States.</string>
+
+    <string name="coleInfo">Jermaine Lamarr Cole (born January 28, 1985), better known by his stage name J. Cole,
+        is an American hip hop recording artist and record producer. Raised in Fayetteville, North Carolina,
+        Cole initially gained recognition as a rapper following the release of his debut mixtape, The Come Up,
+        in early 2007. Intent on further pursuing a solo career as a rapper, he went on to release two additional
+        mixtapes after signing to Jay Z\'s Roc Nation imprint in 2009. Cole released his debut studio album, Cole World:
+        The Sideline Story, in 2011. It debuted at number one on the U.S. Billboard 200,
+        and was soon certified platinum by the Recording Industry Association of America (RIAA).
+        His next two releases, 2013\'s Born Sinner and 2014\'s 2014 Forest Hills Drive, received mostly positive reviews from critics,
+        while being both certified platinum in the US. The latter earned him his first Grammy Award nomination for Best Rap Album.
+        In December 2016 Cole released his fourth studio album 4 Your Eyez Only. The album debuted at number one on the Billboard 200
+        chart and was certified platinum in April 2017.</string>
+
+    <string name="currensyInfo">Shante Scott Franklin (born April 4, 1981), better known by his stage name Currensy (stylized as Curren$y)
+        is an American rapper from New Orleans, Louisiana. He was one of the original members of Young Money Entertainment,
+        a label founded by Lil Wayne. In 2011, Franklin founded the label Jet Life Recordings.</string>
+
+    <string name="eminemInfo">Marshall Bruce Mathers III (born October 17, 1972),[1] known professionally as Eminem (often stylized as EMINƎM),
+        is an American rapper, record producer, and actor. Eminem is the best-selling artist of the 2000s in the United States. Throughout his career,
+        he has had 10 number-one albums on the Billboard 200 and five number-one singles on the Billboard Hot 100. With US sales of 45.1 million albums
+        and 42 million tracks as of June 2014, Eminem is the second best-selling male artist of the Nielsen SoundScan era, the sixth best-selling artist
+        in the United States and the best-selling hip-hop artist. Globally, he has sold more than 172 million albums, thus being one of the world\'s best-selling artists.
+        Rolling Stone ranked him 83rd on its list of 100 Greatest Artists of All Time, calling him the King of Hip Hop.</string>
+
+    <string name="gambinoInfo">Donald McKinley Glover (born September 25, 1983) is an American actor, writer, producer, director, comedian, rapper, singer, and songwriter.
+        He performs as a stage artist under the stage name Childish Gambino, and as a disc jockey, he performs under the name mcDJ. He first came to attention for his work with Derrick Comedy and,
+        with the help of Tina Fey, was hired at the age of 23 to become a writer for the NBC comedy series 30 Rock. He later portrayed community college student Troy Barnes on the NBC sitcom Community.
+        He currently stars in the FX series Atlanta, which he also created. He appeared in Spider-Man: Homecoming as Aaron Davis, and has been cast as the young Lando Calrissian in the upcoming,
+        untitled standalone Han Solo Star Wars movie.[5] He will also provide the voice of Simba in a remake of the Disney film The Lion King. After several self-released albums and mixtapes,
+        Glover signed to Glassnote Records in 2011. He released his first album, Camp, on November 15, 2011 to generally positive reviews. His second studio album, Because the Internet,
+        was released on December 10, 2013. Glover was nominated for two Grammy Awards in 2015, Best Rap Album for Because the Internet and Best Rap Performance for his single "3005".[6] Glover\'s third album,
+        "Awaken, My Love!", was released on December 2, 2016.</string>
+
+    <string name="gucciInfo">Radric Delantic Davis (born February 12, 1980),[2][3] known by his stage name Gucci Mane, is an American hip hop recording artist. In 2007,
+        Gucci Mane founded 1017 Records. He helped pioneer the hip hop subgenre trap music, alongside fellow Atlanta-based rappers T.I. and Young Jeezy.
+        In 2005, Gucci Mane debuted with Trap House, followed by his second and third albums, Hard to Kill and Trap-A-Thon in 2006. His fourth album, Back to the Trap House was released in 2007.
+        In 2009, Gucci Mane released his sixth studio album, The State vs. Radric Davis, going on to become his first gold certified album.
+        Gucci Mane has released dozens of mixtapes and has worked with artists such as Drake, Lil Wayne, Omarion, Mariah Carey and Young Jeezy. His 2016 collaboration with Rae Sremmurd, titled "Black Beatles",
+        provided Gucci Mane with his first number-one single on the US Billboard Hot 100 chart.</string>
+
+    <string name="jayInfo">Shawn Corey Carter (born December 4, 1969),[3][4] known professionally as JAY-Z[5] (formerly stylized as Jay-Z, Jay Z and Jaÿ-Z),[6][7] is an American rapper and businessman.
+        He is one of the best-selling musicians of all time, having sold more than 100 million records, while receiving 21 Grammy Awards for his music.[8][9][10] MTV ranked him the "Greatest MC of all time" in 2006.
+        [11] Rolling Stone ranked three of his albums—Reasonable Doubt (1996), The Blueprint (2001), and The Black Album (2003)—among The 500 Greatest Albums of All Time.[12][13][14] In 2017, Forbes estimated his net worth at $810 million,
+        making him the second-richest hip hop artist in the U.S.[1] Jay-Z owns the New York 40/40 Club sports bar, and is the co-creator of the clothing line Rocawear.[15] He is the former president of Def Jam Recordings,
+        co-founder of Roc-A-Fella Records, and the founder of the entertainment company Roc Nation. He also founded the sports agency Roc Nation Sports and is a certified NBA and MLB sports agent.[16] As an artist,
+        he holds the record for most number one albums by a solo artist on the Billboard 200 with 13.[17][18] He has also had four number ones on the Billboard Hot 100, one ("Empire State of Mind") as lead artist.
+        In 2009, he was ranked the tenth-most successful artist of the 2000s by Billboard as well as the fifth top solo male artist and fourth top rapper behind Eminem, Nelly, and 50 Cent.[19]
+        He was also ranked the 88th-greatest artist of all time by Rolling Stone.[20]</string>
+
+    <string name="wizInfo">Cameron Jibril Thomaz (born September 8, 1987), better known by his stage name Wiz Khalifa, is an American rapper, songwriter, and actor. He released his debut album, Show and Prove, in 2006, and signed to Warner Bros.
+        Records in 2007. His Eurodance-influenced single, "Say Yeah", received urban radio airplay, charting on the Rhythmic Top 40 and Hot Rap Tracks charts in 2008.[2]
+        Khalifa parted with Warner Bros. and released his second album, Deal or No Deal, in November 2009. He released the mixtape Kush and Orange Juice as a free download in April 2010; he then signed with Atlantic Records.
+        He is also well known for his debut single for Atlantic, "Black and Yellow", which peaked at number one on the Billboard Hot 100. His debut album for the label, Rolling Papers, was released on March 29, 2011.
+        He followed that album with O.N.I.F.C. on December 4, 2012, which was backed by the singles "Work Hard, Play Hard" and "Remember You". Wiz released his fourth album Blacc Hollywood on August 18, 2014, backed by the lead single "We Dem Boyz".
+        In March 2015, he released "See You Again" for the soundtrack of the film Furious 7 and the song peaked at number one on the Billboard Hot 100 for 12 non-consecutive weeks.</string>
+
+    <string name="rockyInfo">Rakim Mayers (born October 3, 1988), better known by his stage name ASAP Rocky (stylized as A$AP Rocky), is an American rapper, singer, songwriter, record producer, director, actor and model from the Harlem neighborhood of Manhattan, New York. He is a member of the hip hop group A$AP Mob, from which he adopted his moniker.
+        Rocky released his debut mixtape Live. Love. A$AP, in 2011 to critical acclaim. The success of his mixtape led to a record deal with Polo Grounds Music, RCA Records, and Sony Music Entertainment. He subsequently recorded his 2013 debut album Long. Live. A$AP, which was also well received by critics and debuted at number one on the Billboard 200. In 2015, Rocky released his second studio album titled At. Long. Last. A$AP. The album debuted at number one on the Billboard 200, making it Rocky\'s second consecutive album to debut at number one and has received positive reviews from music critics.
+        Rocky has also directed music videos for himself, Danny Brown and other A$AP Mob members.[1] He is also a noted record producer, producing under the pseudonym Lord Flacko.</string>
+
+    <string name="kendrickInfo">Kendrick Lamar Duckworth (born June 17, 1987)[2] is an American rapper and songwriter. Born and raised in Compton, California, he embarked on his musical career as a teenager under the stage name K-Dot, releasing a mixtape that garnered local attention and led to his signing with indie record label Top Dawg Entertainment (TDE). He began to gain recognition in 2010, after his first retail release, Overly Dedicated. The following year, Lamar independently released his first studio album, Section.80, which included his debut single, "HiiiPoWeR". By that time, he had amassed a large Internet following and collaborated with several prominent artists in the hip hop industry, including The Game, Busta Rhymes and Snoop Dogg.
+        His major label debut album, good kid, m.A.A.d city, was released in 2012 by TDE, Aftermath and Interscope Records to critical success. It debuted at #2 on the US Billboard 200 chart and was later certified platinum by the Recording Industry Association of America (RIAA). The record contained the top 40 hit singles "Swimming Pools (Drank)", "Bitch, Don\'t Kill My Vibe" and "Poetic Justice". Lamar won his first Grammy Award for "i", the lead single from his critically acclaimed third album To Pimp a Butterfly (2015). The album drew on free jazz, funk, soul, and spoken word, debuted atop the charts in the US and the UK, and won the Grammy Award for Best Rap Album at the 58th ceremony. In 2016, Lamar released Untitled Unmastered, a collection of unreleased demos that originated during the recording sessions for Butterfly. He released his fourth album Damn in 2017; its lead single "Humble" topped the US Billboard Hot 100 chart.
+        Lamar has received a number of accolades over the course of his career, including seven Grammy Awards. In early 2013, MTV named Lamar the number one "Hottest MC in the Game", on their annual list.[3] Time named Lamar one of the 100 most influential people in the world in 2016.[4] Aside from his solo career, Lamar is also known as a member of the West Coast hip hop supergroup Black Hippy, alongside his TDE label-mates and fellow South Los Angeles-based rappers Ab-Soul, Jay Rock and Schoolboy Q.</string>
+
+    <string name="mosdefInfo">Yasiin Bey (born Dante Terrell Smith; December 11, 1973), best known by his stage name Mos Def (/ˈmoʊs ˈdɛf/), is an American hip hop recording artist, actor and activist from Brooklyn, New York City, New York. Best known for his music, Mos Def embarked on his hip hop career in 1994, alongside his siblings in the short-lived rap group Urban Thermo Dynamics (UTD), after which he appeared on albums by Da Bush Babees and De La Soul. He subsequently formed the duo Black Star, alongside fellow Brooklyn-based rapper Talib Kweli, and they released their eponymous debut album in 1998. He was featured on the roster of Rawkus Records and in 1999 released his solo debut, Black on Both Sides. His debut was followed by The New Danger (2004), True Magic (2006) and The Ecstatic (2009).[1] The editors at About.com listed him as the 14th greatest emcee of all time on their "50 greatest MC\'s of our time" list.[2]
+        Prior to his career in music, Mos Def first entered public life as a child actor, having played roles in television movies, sitcoms, and theater. Since the early 2000s, Mos Def has been well known for his roles in films such as Something the Lord Made, Next Day Air, The Hitchhiker\'s Guide to the Galaxy, 16 Blocks, Be Kind Rewind, The Italian Job, Bamboozled and Brown Sugar, as well as for his portrayal of Brother Sam in the Showtime drama series Dexter. He is also known as the host of Def Poetry Jam, which aired on HBO between 2002 and 2007</string>
+
+    <string name="nasInfo">Nasir Bin Olu Dara Jones (born September 14, 1973), better known by his stage name Nas /ˈnɑːz/, is an American rapper, record producer, actor, and entrepreneur.[1] The son of jazz musician Olu Dara, Nas has released eight consecutive platinum and multi-platinum albums and has sold over 25 million records worldwide. He is also an entrepreneur through his own record label; he serves as associate publisher of Mass Appeal magazine and is the owner of a Fila sneaker store. He is currently signed to Mass Appeal Records.
+        His musical career began in 1991, as a featured artist on Main Source\'s "Live at the Barbeque". His debut album Illmatic (1994) received universal acclaim from both critics and the hip-hop community and is frequently ranked as the greatest hip hop album of all time.[2][3] Nas\'s follow-up It Was Written debuted at No. 1 on the Billboard 200, stayed on top for four consecutive weeks, went double platinum in two months, and made Nas internationally known. From 2001-2005, Nas was involved in a highly publicised feud with fellow New York rapper Jay-Z. Nas signed to Def Jam in 2006. In 2010, he released Distant Relatives, a collaboration album with reggae musician Damian Marley, donating all royalties to charities active in Africa. His eleventh studio album, Life Is Good (2012) was nominated for Best Rap Album at the 55th Annual Grammy Awards.
+        Nas is often named as one of the greatest hip-hop artists. MTV ranked him at number 5 on their list of "The Greatest MCs of All Time". In 2012, The Source ranked him number two on their list of the "Top 50 Lyricists of All Time". In 2013, Nas was ranked fourth on MTV\'s "Hottest MCs in the Game" list. About.com ranked him first on their list of the "50 Greatest MCs of All Time" in 2014, and a year later, Nas was featured on "The 10 Best Rappers of All Time" list by Billboard.</string>
+
+    <string name="savageInfo">Shayaa Bin Abraham-Joseph (born October 22, 1992), better known by his stage name 21 Savage, is an American rapper from Atlanta, Georgia. He is best known for his mixtapes, The Slaughter Tape and Slaughter King and his extended plays Free Guwop and Savage Mode with Metro Boomin. Shayaa Bin Abraham-Joseph was born on October 22, 1992,[1] in Dominica.[2] He was raised by his mother Heather, who is of Dominica descent, and his four brothers and six sisters.</string>
+
+    <string name="snoopInfo">Cordozar Calvin Broadus Jr. (born October 20, 1971),[1][2] known professionally as Snoop Dogg (sometimes shortened to Snoop and formerly called Snoop Doggy Dogg and Snoop Lion), is an American rapper and actor from Long Beach, California. His music career began in 1992 when he was discovered by Dr. Dre of N.W.A, and as a result Snoop was featured on Dre\'s solo debut, "Deep Cover", And after that on Dr.Dre\'s solo debut album, The Chronic. He has since sold over twenty-three million albums in the United States and thirty-five million albums worldwide.[3][4][5]
+        Snoop\'s debut album, Doggystyle, produced by Dr. Dre and released in 1993 through Death Row Records, debuting at number one on both the Billboard 200 and Billboard Top R&amp;B/Hip-Hop Albums charts. Selling almost a million copies in the first week of its release, Doggystyle became certified 4× platinum in 1994 and spawned several hit singles, including "What's My Name?" and "Gin &amp; Juice". In 1994 Snoop released a soundtrack on Death Row Records for the short film Murder Was The Case, starring himself. His second album Tha Doggfather (1996), also debuted at number one on both charts with "Snoop\'s Upside Ya Head", as the lead single. The album was certified double platinum in 1997.
+        After leaving Death Row Records, Snoop signed with No Limit Records, where he recorded his next three albums. Da Game Is to Be Sold, Not to Be Told (1998), No Limit Top Dogg (1999), and Tha Last Meal (2000). Snoop then signed with Priority/Capitol/EMI Records in 2002, where he released Paid tha Cost to Be da Boss. He then signed with Geffen Records in 2004 for his next three albums R\
+        &amp;G (Rhythm &amp; Gangsta): The Masterpiece, Tha Blue Carpet Treatment, and Ego Trippin\'. Malice \'n Wonderland (2009), and Doggumentary (2011), were released on Priority. Snoop Dogg has starred in motion pictures and hosted several television shows, including Doggy Fizzle Televizzle, Snoop Dogg\'s Father Hood, and Dogg After Dark. He also coaches a youth football league and high school football team. In September 2009, Snoop was hired by EMI as the chairman of a reactivated Priority Records.[6]
+        In 2012, after a trip to Jamaica, Snoop announced a conversion to the Rastafari movement and a new alias, Snoop Lion. Under the new moniker, he released a reggae album, Reincarnated, and a documentary film of the same name, of his Jamaican experience, in early 2013. His fourteenth solo studio album, Coolaid, was released in July 2016.
+        Snoop Dogg holds the dubious distinction of having seventeen Grammy nominations without a win.</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

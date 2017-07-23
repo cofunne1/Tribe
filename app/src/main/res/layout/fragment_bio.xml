@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.chucksupreme.zoku.fragment.BioFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/White"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/fragment_bio_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/Black"
+            android:textColor="@color/White"
+            android:paddingLeft="20dp"
+            android:text="@string/ipsum"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:paddingTop="15dp"
+            />
+    </ScrollView>
+
+</FrameLayout>
